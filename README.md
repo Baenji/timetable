@@ -1,6 +1,6 @@
 # Timetable to ICS Converter
 
-Fetches TH Aalen lecture schedules from HTML and converts them to iCalendar format.
+Fetches TH AB lecture schedules from HTML and converts them to iCalendar format.
 
 ## Quick Start
 
