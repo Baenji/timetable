@@ -26,7 +26,7 @@ jobs:
           pip install beautifulsoup4 ics requests pytz
 
       - name: Run script
-        run: python stundenplan.py
+        run: python timetable.py
 
       - name: Commit and push changes
         run: |
