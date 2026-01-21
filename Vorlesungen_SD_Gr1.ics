@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr. Oetzel\n\n11:30 - 13:00 Uhr\nV IT-Sicherheit SD\nProf. Dr. Oetzel\nHörsaal C3-103\, Seminarraum C3-107\nSD 4 Gr. 1\, SD 4 Gr. 2
+DTEND:20250709T110000Z
+LOCATION:Hörsaal C3-103\, Seminarraum C3-107
+DTSTART:20250709T093000Z
+SUMMARY:V IT-Sicherheit SD
+UID:653a7cfd103608c3084d77dc6de92548@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr. Illes-Seifert\n\n9:45 - 11:15 Uhr\nV Agile Entwicklungsmethoden SD\nProf. Dr. Illes-Seifert\nHörsaal C3-102\, Seminarraum C3-107\nSD 4 Gr. 1\, SD 4 Gr. 2
+DTEND:20250709T091500Z
+LOCATION:Hörsaal C3-102\, Seminarraum C3-107
+DTSTART:20250709T074500Z
+SUMMARY:V Agile Entwicklungsmethoden SD
+UID:61c93c18cf2fa6a2e54835e2492db6d0@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr.-Ing Biedermann\n\n14:00 - 15:30 Uhr\nV Parallele und verteilte Systeme SD\nProf. Dr.-Ing Biedermann\nHörsaal 02-213 aufsteigend\nSD 4 Gr. 1\, SD 4 Gr. 2
+DTEND:20250710T133000Z
+LOCATION:Hörsaal 02-213 aufsteigend
+DTSTART:20250710T120000Z
+SUMMARY:V Parallele und verteilte Systeme SD
+UID:0e9cb598464c8422439e7f63d40cfa6d@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr.-Ing Biedermann\n\n11:30 - 13:00 Uhr\nÜ Parallele und verteilte Systeme SD\nProf. Dr.-Ing Biedermann\nRechnerraum 40-140 (IWIN)\nSD 4 Gr. 1
+DTEND:20250710T110000Z
+LOCATION:Rechnerraum 40-140 (IWIN)
+DTSTART:20250710T093000Z
+SUMMARY:Ü Parallele und verteilte Systeme SD
+UID:f6892279f575055214cc135693e1a262@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr.-Ing Biedermann\n\n9:45 - 11:15 Uhr\nÜ Mensch-Maschine-Schnittstelle SD\nProf. Dr.-Ing Biedermann\nRechnerraum - Labor 26-318 (IWIN)\nSD 4 Gr. 1
+DTEND:20250707T091500Z
+LOCATION:Rechnerraum - Labor 26-318 (IWIN)
+DTSTART:20250707T074500Z
+SUMMARY:Ü Mensch-Maschine-Schnittstelle SD
+UID:2b8c5c896059286a37855ed4aaeba81f@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr. Oetzel\n\n15:45 - 17:15 Uhr\nÜ IT-Sicherheit SD\nProf. Dr. Oetzel\nHörsaal C3-103\nSD 4 Gr. 1
+DTEND:20250709T151500Z
+LOCATION:Hörsaal C3-103
+DTSTART:20250709T134500Z
+SUMMARY:Ü IT-Sicherheit SD
+UID:7164955373f892da843bbdaa22d7e71d@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr.-Ing Biedermann\n\n11:30 - 13:00 Uhr\nV Mensch-Maschine-Schnittstelle SD\nProf. Dr.-Ing Biedermann\nRechnerraum - Labor 26-318 (IWIN)\nSD 4 Gr. 1\, SD 4 Gr. 2
+DTEND:20250707T110000Z
+LOCATION:Rechnerraum - Labor 26-318 (IWIN)
+DTSTART:20250707T093000Z
+SUMMARY:V Mensch-Maschine-Schnittstelle SD
+UID:4bf2f6f4a60c2751414bdfcbaceb3c52@th-ab.de
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dozent: Prof. Dr. Illes-Seifert\n\n14:00 - 15:30 Uhr\nProjekt Agile Entwicklungsmethoden SD\nProf. Dr. Illes-Seifert\nSeminarraum C3-107\nSD 4 Gr. 1
+DTEND:20250709T133000Z
+LOCATION:Seminarraum C3-107
+DTSTART:20250709T120000Z
+SUMMARY:Projekt Agile Entwicklungsmethoden SD
+UID:3d53e1ad6dd6567d32fead640e040025@th-ab.de
+END:VEVENT
+END:VCALENDAR
