@@ -2,7 +2,7 @@ name: update
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -22,8 +21,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: |
-          pip install beautifulsoup4 ics requests pytz
+        run: pip install beautifulsoup4 requests ics tzdata
 
       - name: Run script
         run: python timetable.py
@@ -32,5 +30,5 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add Vorlesungen_SD_Gr1.ics
+          git add sd2023.ics
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Kalender" && git push)
