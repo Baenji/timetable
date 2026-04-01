@@ -14,6 +14,11 @@ TARGET_GROUP = "sd61"
 
 URL_1_SD = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SD_2023.html"
 URL_2_DS = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SP-DS.html"
+URL_WF   = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/WF.html"
+
+WAHLFAECHER = [
+    "KI in der Industrie: Bildverarbeitung, Sprachmodelle",
+]
 
 def fetch_html(url):
     try:
@@ -60,7 +65,7 @@ def filter_events(text_lines, target_group, is_ds_url):
         
     return True
 
-def extract_events_from_html(html, target_group, is_ds_url=False):
+def extract_events_from_html(html, target_group, is_ds_url=False, is_wf_url=False):
     soup = BeautifulSoup(html, 'html.parser')
     tables = soup.find_all('table')
     
@@ -115,7 +120,11 @@ def extract_events_from_html(html, target_group, is_ds_url=False):
                 time_str = lines[0] 
                 title = lines[1] if len(lines) > 1 else "Unbenanntes Event"
                 
-                if not filter_events(lines, target_group, is_ds_url): continue
+                if is_wf_url:
+                    if not any(wf.lower() in title.lower() for wf in WAHLFAECHER):
+                        continue
+                elif not filter_events(lines, target_group, is_ds_url):
+                    continue
                     
                 location = ""
                 for line in lines:
@@ -173,7 +182,13 @@ def main():
     html_ds = fetch_html(URL_2_DS)
     if html_ds:
         all_events.extend(extract_events_from_html(html_ds, TARGET_GROUP, is_ds_url=True))
-        
+
+    if WAHLFAECHER:
+        print("-> Lade URL 3 (WF)...")
+        html_wf = fetch_html(URL_WF)
+        if html_wf:
+            all_events.extend(extract_events_from_html(html_wf, TARGET_GROUP, is_wf_url=True))
+
     if all_events:
         generate_ics(all_events, filename="sd2023.ics")
     else:
