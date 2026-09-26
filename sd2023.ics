@@ -2,91 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260515T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260515T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:7ceebf88-57c4-4374-a548-93900b3be658@7cee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260423T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260423T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:2226a57f-9ebb-47a6-bea1-52eba3ee9d22@2226.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260528T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260528T093000Z
-SUMMARY:V Web-Technologien SD
-UID:353ea680-bda9-4d70-85e5-59761491032c@353e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260409T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260409T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:967c6b93-bfd5-427a-8fae-dd79dfddf783@967c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261117T180000Z
-DTSTART:20261117T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:f563b790-1aea-4a6e-b30a-371e7c32317b@f563.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261124T120000Z
+DTEND:20261110T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261124T103000Z
+DTSTART:20261110T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:15c6187f-f6f8-4c80-80a5-88f2d7692281@15c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
-DTEND:20260417T091500Z
-LOCATION:Hörsaal C2-226 (IWIN)
-DTSTART:20260417T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:673794cb-0a46-43af-a93c-4d7e741f54d4@6737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260619T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260619T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:39316474-41ea-4b5b-a451-4f37b408f974@3931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260521T073000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260521T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:e15a9939-b50c-4ac6-9d4f-c9dd82b9c247@e15a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261027T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261027T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:b2013e59-e390-4b52-b1e5-1da111c271ad@b201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260508T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260508T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:799967da-43bc-45e9-947a-038bd1f80a18@7999.org
+UID:2514736f-470c-4b3e-b155-051e4623f280@2514.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
@@ -94,31 +15,7 @@ DTEND:20260410T110000Z
 LOCATION:Hörsaal C2-128 (IWIN)
 DTSTART:20260410T093000Z
 SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:aea84b5f-d767-49c8-8ffb-11324918a155@aea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260625T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260625T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:2bf00fac-81c1-4d20-9557-ed8e5063d10b@2bf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260528T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260528T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:85cf3013-ec37-468e-be5d-3779aa80da7a@85cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261222T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261222T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:c28d06cf-e0f6-41c8-ba13-42f536890fe9@c28d.org
+UID:98543f97-ec7c-43e7-83c3-72839547fba1@9854.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
@@ -126,532 +23,14 @@ DTEND:20270119T101500Z
 LOCATION:Seminarraum C2-302 (IWIN)
 DTSTART:20270119T084500Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:3350a74b-6ab2-42b8-9ec3-f10a87154c98@3350.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261027T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261027T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:b30abaf8-3c21-4673-bed2-3151e54fcebe@b30a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260430T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260430T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:50eb8eae-812a-403b-9b04-34b4a1e2f7a3@50eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260618T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260618T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:cdd689db-0827-423a-ab48-d2cf84142fff@cdd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260409T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260409T093000Z
-SUMMARY:V Web-Technologien SD
-UID:42454599-97d0-4f9b-8890-c495e2e24239@4245.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20270119T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20270119T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:489b32fc-10ba-4c18-9775-8a7257894933@489b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260424T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260424T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:c44a9708-11c2-475d-a311-7ea148ed2ae9@c44a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260529T110000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260529T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:8a56ccb0-976e-4a57-a756-3440491fc16f@8a56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261020T170000Z
-DTSTART:20261020T153000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:e28d9bae-0464-4021-bfca-fb85c8b1cf6b@e28d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260327T120000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260327T103000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:b31c69a0-b79c-48d3-b3be-adbab6c99f63@b31c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261110T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261110T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:4449ed2a-1105-408e-921d-330a156ec67c@4449.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20270112T180000Z
-DTSTART:20270112T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:307003b4-998c-497e-a9f1-cdce8e782ce6@3070.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260416T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260416T093000Z
-SUMMARY:V Web-Technologien SD
-UID:f35d9311-b51c-4f8d-856d-843c62394fd0@f35d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261208T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261208T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:962d1e1d-3a3a-452e-90d6-cf5573e4fea7@962d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260626T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260626T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:cdbbb9dd-c549-43c8-91d0-d3f853277718@cdbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261208T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261208T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:13045894-6b33-4b65-8494-bf9357b79d04@1304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261201T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261201T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:07841448-837c-4186-a360-c7995be5cdf7@0784.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260416T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260416T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:ddaf1c30-8440-4594-a0e4-2a16d475b5e0@ddaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261215T180000Z
-DTSTART:20261215T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:625fb50f-6a84-4637-a27c-bc47ea79c936@625f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261110T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261110T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:224d17ee-3324-4a5c-afab-863736ffc022@224d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
-DTEND:20260327T101500Z
-LOCATION:Hörsaal C2-226 (IWIN)
-DTSTART:20260327T084500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:48471817-bf90-4654-aeb1-d952b6e4b19e@4847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260423T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260423T093000Z
-SUMMARY:V Web-Technologien SD
-UID:feec1b4a-ab30-430c-acc4-251d8a987810@feec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20270112T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20270112T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:cb919955-d056-4e12-9bec-47dc0cc4a94a@cb91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261006T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261006T093000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:fb12287f-f317-48ec-815f-7c7d107a1ee9@fb12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260702T073000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260702T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:6a164aac-697f-4ae6-a26a-9a4b34ff4af2@6a16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
-DTEND:20260410T091500Z
-LOCATION:Hörsaal C2-226 (IWIN)
-DTSTART:20260410T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:6b98d03e-1dbf-4584-a51a-f972f2834dae@6b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260430T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260430T093000Z
-SUMMARY:V Web-Technologien SD
-UID:206f8eca-31f6-43d3-92d0-9c87c52a321d@206f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260625T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260625T093000Z
-SUMMARY:V Web-Technologien SD
-UID:49111dac-f8f9-461a-b7ec-8657199fec7a@4911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261020T091500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261020T074500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:1af9f99a-b446-4da2-ba5d-8d6e9ad1bfd6@1af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nSeminarraum 49-225 (IWIN)\nSD 61
-DTEND:20260703T110000Z
-LOCATION:Seminarraum 49-225 (IWIN)
-DTSTART:20260703T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:ac745e68-177b-424f-a957-50b3c26b86db@ac74.org
+UID:5a9b4dce-17c6-48b3-82ce-80ebde3b816c@5a9b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 14:00 - 18:00 Uhr\n\nProf. Dr. Sprick\nSD 61 [1]
 DTEND:20260619T160000Z
 DTSTART:20260619T120000Z
 SUMMARY:* Reserviert
-UID:032def18-3c59-49fb-919a-e710a7725b82@032d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261020T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261020T093000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:6d543d50-ec1a-4770-8f68-d9ee8629e1cd@6d54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260618T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260618T093000Z
-SUMMARY:V Web-Technologien SD
-UID:76c21ffe-8196-40ca-9cfc-d2e7b60b8049@76c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261201T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261201T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:7df87880-1404-47df-b2d5-f61822876313@7df8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20270112T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20270112T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:90e61622-e83e-4b3a-a5c5-82722fec014c@90e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260521T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260521T093000Z
-SUMMARY:V Web-Technologien SD
-UID:a85f7668-ffca-485e-a9bd-7071bce77ec9@a85f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261013T170000Z
-DTSTART:20261013T153000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:9fa6a731-cf95-41c2-81ca-5f247cd81120@9fa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 15:30 Uhr\n\nProf. Dr. Sprick\, Prof. Dr. von Kistowski\nHörsaal C2-225 (IWIN)\nSD 61\, SD 62
-DTEND:20260710T133000Z
-LOCATION:Hörsaal C2-225 (IWIN)
-DTSTART:20260710T093000Z
-SUMMARY:S Software Enwicklungsprojekt
-UID:6407bd50-38f8-4f9f-b7c4-36dd7386ddd8@6407.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260710T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260710T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:ce781994-e5b1-45af-a840-cb6e98071132@ce78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261124T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261124T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:b5c0c1d1-3ba1-4c93-bb51-9778248fdf6c@b5c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261006T091500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261006T074500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:e7562f29-276f-44df-b66f-69b0f247f21f@e756.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260611T073000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260611T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:2c647a60-3da1-4253-aff1-f96ffecbbdc2@2c64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261110T180000Z
-DTSTART:20261110T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:4b9ca92d-5092-4197-9051-96dbe9164c66@4b9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261117T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261117T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:5d83b5e2-a0c0-4687-af1d-0f301b3f9ec8@5d83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261215T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261215T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:91461818-11a4-451d-978e-515cb3c29d9a@9146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260326T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260326T103000Z
-SUMMARY:V Web-Technologien SD
-UID:49d607d9-7d15-4217-8efe-1c0f529b8ddd@49d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260326T083000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260326T070000Z
-SUMMARY:Ü Web-Technologien SD
-UID:eb867d85-94a8-4058-afec-3b1bc0bbda51@eb86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 13:00 - 14:00 Uhr\n\nProf. Dr. McNamara\nRechnerraum 48-101 (24-IWIN)\, Rechnerraum 48-102 (68-WR)\nSD 61 [1]
-DTEND:20260703T120000Z
-DTSTART:20260703T110000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:270940cf-f39f-4fd3-a00e-de30cdcf649b@2709.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260529T091500Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260529T074500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:f9db7791-4adc-475a-9e12-54c98b1f214e@f9db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 20:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-127 (IWIN)\, Hörsaal C2-128 (IWIN)\nSD 61\, SD 62
-DTEND:20260427T180000Z
-LOCATION:Hörsaal C2-127 (IWIN)\, Hörsaal C2-128 (IWIN)
-DTSTART:20260427T060000Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:c9058eb0-c420-4790-a0c5-11cf01d3a17d@c905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260319T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260319T103000Z
-SUMMARY:V Web-Technologien SD
-UID:f9786155-76bd-45f3-937b-3f592223a5c1@f978.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261027T180000Z
-DTSTART:20261027T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:70e22c5e-3f9e-4600-883d-b5a913b46a52@70e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260626T110000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260626T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:224bb598-1a57-49f8-998f-a4a361511d47@224b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260619T110000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260619T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:6c94a456-1abc-4e20-8346-d2bbb2ab687a@6c94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nSD 61\, SD 62 [1]
-DTEND:20260317T180000Z
-DTSTART:20260317T163000Z
-SUMMARY:S Software Enwicklungsprojekt
-UID:3af2e9d0-ed56-4f33-9e08-f58a2e2b9c5f@3af2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260320T120000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260320T103000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:a9aeb641-8609-4de3-8271-2ae70da88ccf@a9ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261013T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261013T093000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:44fef86b-4b9a-4b40-9b4f-2ed8c8b6b52e@44fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260424T110000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260424T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:ebc29bc6-0268-4324-9d6d-37bfa1a3c988@ebc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261103T180000Z
-DTSTART:20261103T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:4902ea1b-dbc9-4d61-9ec2-f8cc75875113@4902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260702T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260702T093000Z
-SUMMARY:V Web-Technologien SD
-UID:e5b11e5f-f593-48b0-8b20-e79d7c1bd8b9@e5b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261117T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261117T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:e235ec41-13df-47e2-90b7-c19c006e6b21@e235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
-DTEND:20260320T101500Z
-LOCATION:Hörsaal C2-226 (IWIN)
-DTSTART:20260320T084500Z
-SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:5d9d4d73-013e-42b0-9ea0-82e338d79e5b@5d9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261222T180000Z
-DTSTART:20261222T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:5e698792-36e8-4b87-bcb1-1215707681aa@5e69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261215T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261215T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:f4cb2d08-7288-4d1c-b875-6003f187cd77@f4cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261103T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261103T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:de2f3f15-6287-4ef4-bf73-e3b474355cae@de2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260709T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260709T093000Z
-SUMMARY:V Web-Technologien SD
-UID:9487bc5b-086c-4e5b-8003-d3e90fb66582@9487.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
-DTEND:20260611T110000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260611T093000Z
-SUMMARY:V Web-Technologien SD
-UID:e55535ff-a062-40ad-bfa1-a25d26850f50@e555.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261222T101500Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261222T084500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:09e2085c-00cb-4ab3-b330-76d198857c30@09e2.org
+UID:24c9545a-c10b-4db9-942c-7cdcd0d95713@24c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
@@ -659,45 +38,163 @@ DTEND:20260508T110000Z
 LOCATION:Hörsaal C2-128 (IWIN)
 DTSTART:20260508T093000Z
 SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:21bc1740-e787-4050-8c27-ad90374a8f70@21bc.org
+UID:117940cf-8a95-440d-a361-0d0c50b464c9@1179.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260515T110000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260515T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:73069b58-a4b8-4ac3-97ea-3eace8addfb9@7306.org
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260521T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260521T093000Z
+SUMMARY:V Web-Technologien SD
+UID:aacabf19-f878-45dd-a7bf-a6f94478d685@aaca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20270119T180000Z
-DTSTART:20270119T163000Z
+DTEND:20261124T180000Z
+DTSTART:20261124T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:afb20638-7873-40ea-a654-3672f5d0cf73@afb2.org
+UID:e6545d80-0e6f-4e33-a148-00964b6e153a@e654.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
-DTEND:20260710T110000Z
-LOCATION:Hörsaal C2-128 (IWIN)
-DTSTART:20260710T093000Z
-SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:1e21892b-45aa-4d5e-8b8e-bfc093c83454@1e21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
-DTEND:20261013T091500Z
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260611T073000Z
 LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261013T074500Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:c66ab55e-97f8-45bf-9986-fe2b4bcd4452@c66a.org
+DTSTART:20260611T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:06db1174-5612-4341-b4a6-7fd4820f1915@06db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260710T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260710T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:b59973b3-716b-4476-9492-b8301f2954ee@b599.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
 DTEND:20261201T180000Z
 DTSTART:20261201T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:0f83bfd3-d614-462a-bb1d-4b6d75f1c386@0f83.org
+UID:07cea298-e32f-4070-95f9-ee773858bdd8@07ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260409T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260409T093000Z
+SUMMARY:V Web-Technologien SD
+UID:6d9b8766-3912-4da7-b46b-259ca6a46bbe@6d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20270112T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20270112T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:f76bb517-fc5c-4d64-9fb4-58b4d503cfa0@f76b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 13:00 - 14:00 Uhr\n\nProf. Dr. McNamara\nRechnerraum 48-101 (24-IWIN)\, Rechnerraum 48-102 (68-WR)\nSD 61 [1]
+DTEND:20260703T120000Z
+DTSTART:20260703T110000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:de49cdf5-bb38-418b-b2c5-608ca0d2ed6d@de49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261013T170000Z
+DTSTART:20261013T153000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:8e34fc94-d722-4af2-bce4-ebd5a6308171@8e34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260709T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260709T093000Z
+SUMMARY:V Web-Technologien SD
+UID:d527a42e-c503-4aa7-a078-da71198ec90e@d527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260326T083000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260326T070000Z
+SUMMARY:Ü Web-Technologien SD
+UID:dfe0baaa-6395-41b6-bf60-65c1dba38c3f@dfe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
+DTEND:20260410T091500Z
+LOCATION:Hörsaal C2-226 (IWIN)
+DTSTART:20260410T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:bd1f8c80-45b6-4ce4-ac68-547444bcb402@bd1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261117T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261117T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:07db4e6a-902b-45b8-a3b0-32c896b8dad5@07db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260515T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260515T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:9862570b-09e0-49b8-96fc-b782cb147277@9862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261208T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261208T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:b3477cb1-e07c-4afe-910c-6d6fb21173d3@b347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20270112T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20270112T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:0a5d6a5c-5a5e-4bf2-81a7-a670cbe5ec7f@0a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261124T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261124T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:c37dca8c-ab35-47e1-959d-2e16aa5d520a@c37d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260416T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260416T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:c00b5f0b-bbb7-47f2-b399-e944e8fe3151@c00b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260618T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260618T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:925af0ca-8e06-47ec-95aa-51574db84af4@925a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260424T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260424T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:3e4620e4-6579-4a32-b3a7-b90ed4de52e4@3e46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
@@ -705,15 +202,138 @@ DTEND:20261103T101500Z
 LOCATION:Seminarraum C2-302 (IWIN)
 DTSTART:20261103T084500Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:2e1b9f1d-ad2f-46a9-9737-36da9532bbc7@2e1b.org
+UID:58b0f879-d152-4690-ae7b-cd6b4c923fc2@58b0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
-DTEND:20260709T073000Z
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261208T180000Z
+DTSTART:20261208T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:69bfed21-3c21-464b-b25e-e05ef2ca9875@69bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260319T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20260709T060000Z
-SUMMARY:Ü Web-Technologien SD
-UID:a0f2bb18-270c-4beb-9f14-9d73a3e8707b@a0f2.org
+DTSTART:20260319T103000Z
+SUMMARY:V Web-Technologien SD
+UID:f118a614-b384-438c-8987-05c30f4a34cd@f118.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261103T180000Z
+DTSTART:20261103T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:4da2df67-e4e5-40bc-8df9-20242af2dd1a@4da2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261006T170000Z
+DTSTART:20261006T153000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:1612efab-0b60-469b-8d6c-bed225dfc70b@1612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260424T110000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260424T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:06cc88a1-532c-4810-9c8e-17c4ec0b42bb@06cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261201T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261201T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:4c6e7b53-ec99-43e2-9068-873defb9d87a@4c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261222T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261222T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:f41db372-1190-4428-9ce5-d9ce2ac91663@f41d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261020T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261020T093000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:0c49732d-a834-4705-a190-7c7c4a6ab63e@0c49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261020T170000Z
+DTSTART:20261020T153000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:6ab212fc-3031-4643-8862-424bc394be76@6ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260529T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260529T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:452c2bdc-5dd0-4baf-a63d-5f6309a43c56@452c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260710T110000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260710T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:21252330-5cd7-435f-99a6-cd5ac885b2fd@2125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 15:30 Uhr\n\nProf. Dr. Sprick\, Prof. Dr. von Kistowski\nHörsaal C2-225 (IWIN)\nSD 61\, SD 62
+DTEND:20260710T133000Z
+LOCATION:Hörsaal C2-225 (IWIN)
+DTSTART:20260710T093000Z
+SUMMARY:S Software Enwicklungsprojekt
+UID:fbb166d3-e58c-4c23-8b4b-acb86c472e55@fbb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260626T110000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260626T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:0991cbdb-a4d5-4b32-8062-66b665b5b4d6@0991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261110T180000Z
+DTSTART:20261110T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:f95bd44f-4358-400e-8878-c028465f29dd@f95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260528T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260528T093000Z
+SUMMARY:V Web-Technologien SD
+UID:397f8ec4-92a2-46aa-8e87-cd6acc5c663a@397f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261201T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261201T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:25faf0e3-a3bd-4d05-adbc-a64409cc2ea4@25fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261215T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261215T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:11830a6c-d0c8-4524-9802-8c32200c49f3@1183.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
@@ -721,7 +341,141 @@ DTEND:20260703T091500Z
 LOCATION:Hörsaal C2-128 (IWIN)
 DTSTART:20260703T074500Z
 SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
-UID:210f5d63-717d-4271-93d1-6996371bf38b@210f.org
+UID:3c41dcc9-f2ad-4ad1-ad06-867fac95d710@3c41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260423T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260423T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:977de11e-6123-42fd-8b58-fe47dceb22c7@977d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260521T073000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260521T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:81372ad2-8a44-4a2d-a06d-73554682c779@8137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260625T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260625T093000Z
+SUMMARY:V Web-Technologien SD
+UID:512911e0-f639-42ea-a694-90146e76c439@5129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261027T180000Z
+DTSTART:20261027T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:0d413f98-4b16-44a2-8279-a689e1be5a75@0d41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261006T091500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261006T074500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:62928a25-6b55-47c4-abf9-60f406f87a33@6292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nSeminarraum 49-225 (IWIN)\nSD 61
+DTEND:20260703T110000Z
+LOCATION:Seminarraum 49-225 (IWIN)
+DTSTART:20260703T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:47e84e20-b047-40bd-9b95-085db819a2a1@47e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
+DTEND:20260320T101500Z
+LOCATION:Hörsaal C2-226 (IWIN)
+DTSTART:20260320T084500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:6ebe4a26-787e-439d-a139-9032f85c4f18@6ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260625T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260625T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:ed6f8a91-be2f-4aa8-87a4-4aee9ca3c697@ed6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260320T120000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260320T103000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:7f166389-4cce-4de6-95cb-472ddf8edc52@7f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260416T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260416T093000Z
+SUMMARY:V Web-Technologien SD
+UID:573f7661-a7d9-41c1-a180-2c8d70418bba@573f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 20:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-127 (IWIN)\, Hörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260427T180000Z
+LOCATION:Hörsaal C2-127 (IWIN)\, Hörsaal C2-128 (IWIN)
+DTSTART:20260427T060000Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:484bd1da-259f-4c9b-bc58-bee60d43c524@484b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260409T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260409T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:93672d41-16a5-42c5-8019-1ae4627425e6@9367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260618T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260618T093000Z
+SUMMARY:V Web-Technologien SD
+UID:f5554f3a-5eca-41c3-a8d9-3529b866c669@f555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260327T120000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260327T103000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:8881327f-62a7-4a36-ae33-d913954c3646@8881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261215T180000Z
+DTSTART:20261215T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:c962b069-0403-4997-9ce2-8215510ce075@c962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261013T091500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261013T074500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:7a66c695-5109-4607-829f-2575951d04a2@7a66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260326T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260326T103000Z
+SUMMARY:V Web-Technologien SD
+UID:e33a1552-80c5-473b-8b2a-91fbfbe1b379@e33a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
@@ -729,27 +483,273 @@ DTEND:20260417T110000Z
 LOCATION:Hörsaal C2-128 (IWIN)
 DTSTART:20260417T093000Z
 SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
-UID:bb009865-1496-4273-9eb2-08b79c92445a@bb00.org
+UID:f0e3259b-3767-4d79-98cb-4c532a4093b3@f0e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260702T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260702T093000Z
+SUMMARY:V Web-Technologien SD
+UID:16852ab1-6edc-437f-bdb7-4d9530d4ad2d@1685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260423T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260423T093000Z
+SUMMARY:V Web-Technologien SD
+UID:e301159b-17c6-4249-8788-6cf0ea88e949@e301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261027T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261027T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:b21190a7-4a10-4567-9f36-9883aa96a7ee@b211.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20270119T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20270119T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:149e565c-b14f-4c8a-9c02-5fbe97c6063c@149e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260508T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260508T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:e302694f-9535-4587-b717-044b999d8e0d@e302.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261110T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261110T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:f4f156a2-0bb6-4292-8229-61475c73c42b@f4f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261124T180000Z
-DTSTART:20261124T163000Z
+DTEND:20270119T180000Z
+DTSTART:20270119T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:d32bed02-3863-48e9-9c75-f7419761ac5c@d32b.org
+UID:c04d46a5-f7b9-4326-912b-570c4c9d24b9@c04d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261020T091500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261020T074500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:2610c64a-32fe-4c5a-8908-dffd1c6dfe26@2610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260709T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260709T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:3bfd3240-b65a-448d-8005-e4978da0b1d2@3bfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260619T110000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260619T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:0973044f-d83a-4741-88f8-e1a77c1cac02@0973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261124T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261124T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:6d3a51ac-908a-4990-907a-64b3f37f206b@6d3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260529T110000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260529T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:7e3509e3-8a8f-45b4-9ee7-b91a8409498e@7e35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261013T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261013T093000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:da6892c7-adc8-4389-8f51-815316d32005@da68.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261208T180000Z
-DTSTART:20261208T163000Z
+DTEND:20261222T180000Z
+DTSTART:20261222T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:a79f8ba1-4991-44a7-90fd-e337cfbf5771@a79f.org
+UID:f4f244eb-5b79-4b84-93c1-fa8aa7056aee@f4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261117T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261117T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:3a6f59c4-fa68-4c34-a3fc-f80d8ebec128@3a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260515T110000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260515T093000Z
+SUMMARY:Ü Mobile Anwendungen und deren Entwicklung SD
+UID:0bbfee88-97c7-4471-b039-192a58a34c02@0bbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nSD 61\, SD 62 [1]
+DTEND:20260317T180000Z
+DTSTART:20260317T163000Z
+SUMMARY:S Software Enwicklungsprojekt
+UID:dbe45e9a-8adc-46b7-8a5d-aefb7beecebf@dbe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261208T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261208T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:abf00577-a195-4f1e-9be5-519275bfe2eb@abf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260430T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260430T093000Z
+SUMMARY:V Web-Technologien SD
+UID:ea972c30-f2e2-4f74-8fb6-4fdd006afd6e@ea97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260619T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260619T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:1733f48a-3687-4ed3-87d5-c674bb8a0bcd@1733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
+DTEND:20260327T101500Z
+LOCATION:Hörsaal C2-226 (IWIN)
+DTSTART:20260327T084500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:7230dd1c-8795-46b1-b7b2-c8432c23e6c0@7230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-128 (IWIN)\nSD 61\, SD 62
+DTEND:20260626T091500Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260626T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:e935d3de-9a24-40ad-ab88-755de3823296@e935.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nHörsaal C2-128 (IWIN)\nSD 61
+DTEND:20260702T073000Z
+LOCATION:Hörsaal C2-128 (IWIN)
+DTSTART:20260702T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:4c268014-22db-4659-a39a-c64823e3a15f@4c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261103T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261103T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:d9ebeed7-8351-4620-810e-60387fd4bf03@d9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260430T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260430T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:5de7da0f-e83c-4e7b-8755-a35d4a38acb9@5de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61\, SD 62
+DTEND:20260611T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260611T093000Z
+SUMMARY:V Web-Technologien SD
+UID:c73ede34-d57c-4dca-b74e-dce322ec49c1@c73e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr. McNamara\nHörsaal C2-226 (IWIN)\nSD 61\, SD 62
+DTEND:20260417T091500Z
+LOCATION:Hörsaal C2-226 (IWIN)
+DTSTART:20260417T074500Z
+SUMMARY:V Mobile Anwendungen und deren Entwicklung SD
+UID:3a7cea09-da35-4301-b9fb-b65ada7d90cf@3a7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261006T110000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261006T093000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:4c6d6522-c06e-48f1-8922-2ba1a28da082@4c6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 8:00 - 9:30 Uhr\n\nProf. Dr. Sträßer\nSeminarraum C2-302 (IWIN)\nSD 61
+DTEND:20260528T073000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20260528T060000Z
+SUMMARY:Ü Web-Technologien SD
+UID:c0be7e6b-a594-400d-9bfe-9f44e7428da9@c0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261215T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261215T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:5d49bb0a-b2e8-44e2-b463-77f42d38fb0b@5d49.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261006T170000Z
-DTSTART:20261006T153000Z
+DTEND:20270112T180000Z
+DTSTART:20270112T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:00ef4a6e-6f07-4b05-998e-1149456639ec@00ef.org
+UID:6c751cdb-6790-4228-88e2-a17f1a70e8b1@6c75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261222T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261222T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:e28fcdd0-9323-473a-b38f-bcf4bf0d8e7b@e28f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 9:45 - 11:15 Uhr\n\nProf. Dr.-Ing Biedermann\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 1
+DTEND:20261027T101500Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261027T084500Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:9502ba76-cd27-455c-8b84-c809d5055101@9502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261117T180000Z
+DTSTART:20261117T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:aeec4c74-4149-427a-b152-0219ce64e908@aeec.org
 END:VEVENT
 END:VCALENDAR
