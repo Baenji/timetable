@@ -13,8 +13,9 @@ python timetable.py
 
 Edit the variables at the top of `timetable.py`:
 * **`TARGET_GROUP`** - Filter by your study group (e.g., `"sd61"` or `"sd62"`)
+* **`DS_GROUP`** - Your group in the Data Science schedule (`1` or `2`); events marked only for the other group are skipped. Set to `None` to keep all groups
 * **`URL_1_SD`** - Source webpage for the main Software Design schedule
-* **`URL_2_DS`** - Source webpage for the Data Science schedule (always included)
+* **`URL_2_DS`** - Source webpage for the Data Science schedule (filtered by `DS_GROUP`)
 
 ## Output
 

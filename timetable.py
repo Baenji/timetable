@@ -11,6 +11,7 @@ except ImportError:
     LOCAL_TZ = datetime.timezone(datetime.timedelta(hours=1))
 
 TARGET_GROUP = "sd61"
+DS_GROUP = 1  # Gruppe im Schwerpunkt Data Science (1 oder 2), None = alle Gruppen
 
 URL_1_SD = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SD_2023.html"
 URL_2_DS = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SP-DS.html"
@@ -48,10 +49,20 @@ def parse_table(table):
             col_idx += colspan
     return grid
 
+def filter_ds_group(text_lines, ds_group):
+    if ds_group is None:
+        return True
+
+    groups = re.findall(r'Gr\.\s*(\d+)', " ".join(text_lines))
+    if not groups:
+        return True
+
+    return str(ds_group) in groups
+
 def filter_events(text_lines, target_group, is_ds_url):
     if is_ds_url:
-        return True
-        
+        return filter_ds_group(text_lines, DS_GROUP)
+
     text_full = " ".join(text_lines).lower()
     target_norm = target_group.lower().replace(" ", "")
     text_norm = text_full.replace(" ", "")
@@ -170,7 +181,7 @@ def generate_ics(new_events, filename="sd2023.ics"):
     print(f"-> Datei komplett neu überschrieben: '{filename}'.")
 
 def main():
-    print(f"Starte Parsing-Vorgang... (Filter-Gruppe: {TARGET_GROUP})")
+    print(f"Starte Parsing-Vorgang... (Filter-Gruppe: {TARGET_GROUP}, DS-Gruppe: {DS_GROUP or 'alle'})")
     all_events = []
     
     print("-> Lade URL 1 (SD)...")
