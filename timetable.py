@@ -10,16 +10,9 @@ try:
 except ImportError:
     LOCAL_TZ = datetime.timezone(datetime.timedelta(hours=1))
 
-TARGET_GROUP = "sd61"
 DS_GROUP = 1  # Gruppe im Schwerpunkt Data Science (1 oder 2), None = alle Gruppen
 
-URL_1_SD = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SD_2023.html"
-URL_2_DS = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SP-DS.html"
-URL_WF   = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/WF.html"
-
-WAHLFAECHER = [
-    "KI in der Industrie: Bildverarbeitung, Sprachmodelle",
-]
+URL_DS = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SP-DS.html"
 
 def fetch_html(url):
     try:
@@ -59,24 +52,7 @@ def filter_ds_group(text_lines, ds_group):
 
     return str(ds_group) in groups
 
-def filter_events(text_lines, target_group, is_ds_url):
-    if is_ds_url:
-        return filter_ds_group(text_lines, DS_GROUP)
-
-    text_full = " ".join(text_lines).lower()
-    target_norm = target_group.lower().replace(" ", "")
-    text_norm = text_full.replace(" ", "")
-    
-    if target_norm in text_norm:
-        return True
-        
-    other_group = "sd62" if target_norm == "sd61" else "sd61"
-    if other_group in text_norm and target_norm not in text_norm:
-        return False
-        
-    return True
-
-def extract_events_from_html(html, target_group, is_ds_url=False, is_wf_url=False):
+def extract_events_from_html(html, ds_group):
     soup = BeautifulSoup(html, 'html.parser')
     tables = soup.find_all('table')
     
@@ -131,10 +107,7 @@ def extract_events_from_html(html, target_group, is_ds_url=False, is_wf_url=Fals
                 time_str = lines[0] 
                 title = lines[1] if len(lines) > 1 else "Unbenanntes Event"
                 
-                if is_wf_url:
-                    if not any(wf.lower() in title.lower() for wf in WAHLFAECHER):
-                        continue
-                elif not filter_events(lines, target_group, is_ds_url):
+                if not filter_ds_group(lines, ds_group):
                     continue
                     
                 location = ""
@@ -181,24 +154,13 @@ def generate_ics(new_events, filename="sd2023.ics"):
     print(f"-> Datei komplett neu überschrieben: '{filename}'.")
 
 def main():
-    print(f"Starte Parsing-Vorgang... (Filter-Gruppe: {TARGET_GROUP}, DS-Gruppe: {DS_GROUP or 'alle'})")
+    print(f"Starte Parsing-Vorgang... (DS-Gruppe: {DS_GROUP or 'alle'})")
     all_events = []
-    
-    print("-> Lade URL 1 (SD)...")
-    html_sd = fetch_html(URL_1_SD)
-    if html_sd:
-        all_events.extend(extract_events_from_html(html_sd, TARGET_GROUP, is_ds_url=False))
-        
-    print("-> Lade URL 2 (DS)...")
-    html_ds = fetch_html(URL_2_DS)
-    if html_ds:
-        all_events.extend(extract_events_from_html(html_ds, TARGET_GROUP, is_ds_url=True))
 
-    if WAHLFAECHER:
-        print("-> Lade URL 3 (WF)...")
-        html_wf = fetch_html(URL_WF)
-        if html_wf:
-            all_events.extend(extract_events_from_html(html_wf, TARGET_GROUP, is_wf_url=True))
+    print("-> Lade URL (DS)...")
+    html_ds = fetch_html(URL_DS)
+    if html_ds:
+        all_events.extend(extract_events_from_html(html_ds, DS_GROUP))
 
     if all_events:
         generate_ics(all_events, filename="sd2023.ics")
