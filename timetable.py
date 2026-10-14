@@ -10,7 +10,7 @@ try:
 except ImportError:
     LOCAL_TZ = datetime.timezone(datetime.timedelta(hours=1))
 
-DS_GROUP = 1  # Gruppe im Schwerpunkt Data Science (1 oder 2), None = alle Gruppen
+DS_GROUP = 2  # Gruppe im Schwerpunkt Data Science (1 oder 2), None = alle Gruppen
 
 URL_DS = "https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/SP-DS.html"
 
