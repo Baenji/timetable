@@ -2,86 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261103T180000Z
-DTSTART:20261103T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:11465859-d786-4e76-a677-c991dc926a2c@1146.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261110T120000Z
+DTEND:20261222T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261110T103000Z
+DTSTART:20261222T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:6bda8bee-9c41-4e30-9da6-a64245186844@6bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261103T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261103T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:35029c76-59f9-4555-9924-1fb74423a11f@3502.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261201T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261201T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:6e18280c-adf5-4d0b-8ac6-98503f0635b5@6e18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261117T180000Z
-DTSTART:20261117T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:2631ca4e-4a3f-48e7-99f1-fd12a56b1a2c@2631.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261110T180000Z
-DTSTART:20261110T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:5b7f224c-4424-4d7c-8f92-f09fac25244a@5b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261124T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261124T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:365310bf-58d7-4813-b9bb-f06dd85068e6@3653.org
+UID:6b18b185-6a65-4656-b7b1-1edbfb88c36a@6b18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
 DTEND:20261222T180000Z
 DTSTART:20261222T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:ebd456fb-505a-4a1e-89ad-e7fcffda66ef@ebd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261124T180000Z
-DTSTART:20261124T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:9499dcf7-d708-4533-9d8f-b22bb6c0806e@9499.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20270119T180000Z
-DTSTART:20270119T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:946e5823-14d6-460a-81ed-e6f63fbd8198@946e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261117T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261117T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:c529a236-3d25-44ef-8375-a505354969cc@c529.org
+UID:73c87c9d-da5f-4132-81f0-e638806ad9ca@73c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
@@ -89,38 +22,72 @@ DTEND:20261215T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
 DTSTART:20261215T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:2575fbd2-30e0-4e84-b244-6a633f9d86ec@2575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20270119T120000Z
-LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20270119T103000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:f9e2023c-1192-4fa9-9917-bf7ff75b9f98@f9e2.org
+UID:e7be10de-1bc6-43bc-bda5-b6d12bf110f8@e7be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20270112T180000Z
-DTSTART:20270112T163000Z
+DTEND:20261201T180000Z
+DTSTART:20261201T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:3ee092f9-9cd8-4418-98c7-c82801e9a5f5@3ee0.org
+UID:88549d7c-9026-4666-b2ed-5ebe669ee480@8854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261103T180000Z
+DTSTART:20261103T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:442b2f86-5562-4ac4-8912-aa77b216b449@442b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261110T180000Z
+DTSTART:20261110T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:9c6d5b27-6c6a-450e-ac58-20350512f006@9c6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20270112T120000Z
+DTEND:20261110T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20270112T103000Z
+DTSTART:20261110T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:fc23f769-cf30-4650-88e4-fd383f551800@fc23.org
+UID:729e72a5-d820-47f6-be00-62993e6a5c21@729e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20270119T180000Z
+DTSTART:20270119T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:bfb53af0-d431-434f-bbd9-bb366e243290@bfb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261117T180000Z
+DTSTART:20261117T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:549dddfe-66ae-4618-8bf7-f70814bfefa8@549d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261208T180000Z
+DTSTART:20261208T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:60f9508c-a24b-4368-a261-b9ce63159831@60f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261215T180000Z
+DTSTART:20261215T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:063f4d18-0056-4c85-b1cc-d3387e9c0357@063f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
-DTEND:20261222T120000Z
+DTEND:20261117T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
-DTSTART:20261222T103000Z
+DTSTART:20261117T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:012ae24f-88fe-41c6-8342-56b5782166cd@012a.org
+UID:0fc81151-f2ed-4a7c-b4e9-5cc353581df0@0fc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
@@ -128,14 +95,7 @@ DTEND:20261208T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
 DTSTART:20261208T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:f969fcef-81e4-482f-90d5-7ecfbd9552d2@f969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261201T180000Z
-DTSTART:20261201T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:b72285c4-d010-44ed-ba09-1c5fee2174e5@b722.org
+UID:d87fe13d-5ca9-4be8-b928-90fb6642612b@d87f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
@@ -143,27 +103,67 @@ DTEND:20261027T120000Z
 LOCATION:Seminarraum C2-302 (IWIN)
 DTSTART:20261027T103000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
-UID:b9b7e1be-7015-43cb-b230-4019b7f4fd45@b9b7.org
+UID:e593449e-649b-486f-b3c2-7950c6992d06@e593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20270119T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20270119T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:99becd90-31ec-45b0-b5c2-587e327bb261@99be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
+DTEND:20261124T180000Z
+DTSTART:20261124T163000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
+UID:c2e8ad94-dd7d-47a3-a0e0-23b2c9a4cddc@c2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20270112T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20270112T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:e26f77f8-d31c-4e03-9ee5-17a604e5b3f8@e26f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
 DTEND:20261027T180000Z
 DTSTART:20261027T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:a605806c-be68-4c6d-844a-500b618a1e09@a605.org
+UID:2eb584fe-6f79-4dd1-9383-6e005729658c@2eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261124T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261124T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:d17c391c-cca7-4f7e-a530-31cdd090863c@d17c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nHörsaal (+ Rechnerraum) C2-128 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261103T120000Z
+LOCATION:Hörsaal (+ Rechnerraum) C2-128 (IWIN)
+DTSTART:20261103T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:0c7c6041-d27e-48e2-aaba-042bc029e94f@0c7c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261208T180000Z
-DTSTART:20261208T163000Z
+DTEND:20270112T180000Z
+DTSTART:20270112T163000Z
 SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:2fe96162-506a-401f-ae5e-2efcdf8c7135@2fe9.org
+UID:446a925a-44b0-47ce-94ea-2bd7c2c99731@446a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Uhrzeit: 17:30 - 19:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr.-Ing Doll\, Prof. Dr. Möckel\, Prof. Dr. Radke\, Prof. Dr. Warnat\nDS WiSe Gr. 1\, DS WiSe Gr. 2 [1]
-DTEND:20261215T180000Z
-DTSTART:20261215T163000Z
-SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: a) Anwendungen
-UID:89f8412a-9047-4d1e-85fc-f9cf3f353fa2@89f8.org
+DESCRIPTION:Uhrzeit: 11:30 - 13:00 Uhr\n\nProf. Dr.-Ing Biedermann\, Prof. Dr. Hildenbrand\nSeminarraum C2-302 (IWIN)\nDS WiSe Gr. 2
+DTEND:20261201T120000Z
+LOCATION:Seminarraum C2-302 (IWIN)
+DTSTART:20261201T103000Z
+SUMMARY:V Data Science: Anwendungen\, Ethik\, Recht\, Psychologie: b) Ethik\, Recht\, Psychologie
+UID:62b79f5a-de55-424e-aafd-77f1d4e5d14a@62b7.org
 END:VEVENT
 END:VCALENDAR
